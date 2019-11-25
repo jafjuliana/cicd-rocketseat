@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jafjuliana/cicd-rocketseat/issues"
   },
-  "homepage": "https://github.com/jafjuliana/cicd-rocketseat#readme"
+  "homepage": "https://github.com/jafjuliana/cicd-rocketseat#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
